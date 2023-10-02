@@ -1,6 +1,6 @@
 [] Ali
 [] Allen
-[] Brunning
+[x] Brunning
 [] Burkhalter
 [] Butler
 [] Crenshaw
